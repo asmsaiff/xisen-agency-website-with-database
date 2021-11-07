@@ -1,0 +1,18 @@
+2021-11-05T15:26:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_parmalink() in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/single-xisen_portfolio.php:65
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/single-xisen_portfolio.php on line 65
+
+2021-11-05T15:36:55+00:00 CRITICAL syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/single-xisen_portfolio.php on line 182
+
+2021-11-05T17:29:05+00:00 CRITICAL Unclosed '{' on line 117 in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/functions.php on line 157
+
+2021-11-05T17:29:27+00:00 CRITICAL Unclosed '{' on line 117 in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/functions.php on line 157
+
+2021-11-05T17:29:38+00:00 CRITICAL Unclosed '{' on line 117 in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/functions.php on line 157
+
+2021-11-05T17:30:12+00:00 CRITICAL Unclosed '{' on line 117 in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/functions.php on line 157
+

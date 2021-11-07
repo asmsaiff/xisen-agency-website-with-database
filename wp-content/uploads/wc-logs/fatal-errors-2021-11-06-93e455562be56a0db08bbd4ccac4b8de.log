@@ -1,0 +1,48 @@
+2021-11-06T14:34:01+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
+2021-11-06T14:34:33+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
+2021-11-06T14:35:28+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
+2021-11-06T14:36:14+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
+2021-11-06T14:38:34+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
+2021-11-06T14:38:37+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php:22
+Stack trace:
+#0 /home/saif/Documents/htdocs/xisen/wp-includes/template-loader.php(106): include()
+#1 /home/saif/Documents/htdocs/xisen/wp-blog-header.php(19): require_once('/home/saif/Docu...')
+#2 /home/saif/Documents/htdocs/xisen/index.php(17): require('/home/saif/Docu...')
+#3 {main}
+  thrown in /home/saif/Documents/htdocs/xisen/wp-content/themes/xisen/page-templates/xisen-team.php on line 22
+
